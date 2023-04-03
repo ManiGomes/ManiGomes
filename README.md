@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I´m a studant of Systems Development Analyst at anhanguera <img src="images\Anhanguera-logo.png" width="3%" align="center" valign="middle" >
+    I´m a studant of Systems Development Analyst at anhanguera <img src="images\Anhanguera-logo.png" width="4%" align="center" valign="middle" >
   </p>
   
 </div>
